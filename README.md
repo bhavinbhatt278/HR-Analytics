@@ -1,0 +1,4 @@
+![HR blue](https://github.com/bhavinbhatt278/HR-Analytics/assets/154977010/60926e6b-2a14-48a0-8599-ff09e845606a)
+
+The objective of this project is to gain valuable insights into employee data and find out trend and patterns with respect to various performance metrics. The employee data sets consists of various data points related to current department, educational qualification, marital status, salaries, compensation, overtime , performance and many more . With the help of this data we will identify the trends in various metrics inorder to know the correlation between employee performance and their job satisfaction level. The goal here is to enhance the employee experience in terms of satisfaction and at the same time boost the productivity of the employee inorder to improve the cost effectiveness of operations and inturn gain higher profits for the organisation.
+
